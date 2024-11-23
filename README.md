@@ -1,4 +1,4 @@
-# Tron Game in Assembly
+# Tron Game in Assembly (x86)
 
 ## Main Structure of the Code
 
